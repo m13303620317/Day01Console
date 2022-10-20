@@ -1,0 +1,8 @@
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\bin\Debug\Day01Console.exe.config
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\bin\Debug\Day01Console.exe
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\bin\Debug\Day01Console.pdb
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\obj\Debug\Day01Console.csproj.AssemblyReference.cache
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\obj\Debug\Day01Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\obj\Debug\Day01Console.csproj.CoreCompileInputs.cache
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\obj\Debug\Day01Console.exe
+C:\Users\jialinl\source\repos\Day01Console\Day01Console\obj\Debug\Day01Console.pdb
